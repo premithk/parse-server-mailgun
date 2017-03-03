@@ -1,5 +1,7 @@
 # parse-server-mailgun 
 
+[![Join the chat at https://gitter.im/parse-server-mailgun/Lobby](https://badges.gitter.im/parse-server-mailgun/Lobby.svg)](https://gitter.im/parse-server-mailgun/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://badge.fury.io/js/parse-server-mailgun.svg)](https://badge.fury.io/js/parse-server-mailgun)
 [![Build Status](https://travis-ci.org/sebsylvester/parse-server-mailgun.svg?branch=master)](https://travis-ci.org/sebsylvester/parse-server-mailgun) 
 [![codecov](https://codecov.io/gh/sebsylvester/parse-server-mailgun/branch/master/graph/badge.svg)](https://codecov.io/gh/sebsylvester/parse-server-mailgun)
